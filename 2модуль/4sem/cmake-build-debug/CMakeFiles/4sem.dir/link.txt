@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/4sem.dir/main.cpp.o -o 4sem 
