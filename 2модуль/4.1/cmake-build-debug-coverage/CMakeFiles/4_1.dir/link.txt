@@ -1,0 +1,1 @@
+/usr/bin/c++ --coverage -g CMakeFiles/4_1.dir/main.cpp.o -o 4_1 

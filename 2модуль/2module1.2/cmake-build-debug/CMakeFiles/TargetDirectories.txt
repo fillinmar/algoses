@@ -1,0 +1,3 @@
+/home/fillinmar/algoses/2модуль/2module1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fillinmar/algoses/2модуль/2module1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fillinmar/algoses/2модуль/2module1.2/cmake-build-debug/CMakeFiles/2module1_2.dir
